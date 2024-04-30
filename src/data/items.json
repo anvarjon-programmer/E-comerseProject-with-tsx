@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Gloves",
+      "price": 109.9,
+      "imgUrl": "https://github.com/nurmukhamedov/ts-with-react/blob/lesson-55/public/imgs/img-1.jpg?raw=true"
+    },
+    {
+      "id": 2,
+      "name": "Boots",
+      "price": 1199,
+      "imgUrl": "https://github.com/nurmukhamedov/ts-with-react/blob/lesson-55/public/imgs/img-2.jpg?raw=true"
+    },
+    {
+      "id": 3,
+      "name": "Sneaker",
+      "price": 115,
+      "imgUrl": "https://github.com/nurmukhamedov/ts-with-react/blob/lesson-55/public/imgs/img-3.jpg?raw=true"
+    },
+    {
+      "id": 4,
+      "name": "Bag",
+      "price": 900,
+      "imgUrl": "https://github.com/nurmukhamedov/ts-with-react/blob/lesson-55/public/imgs/img-4.jpg?raw=true"
+    }, 
+    {
+      "id": 5,
+      "name": "Gloves",
+      "price": 315,
+      "imgUrl": "https://github.com/nurmukhamedov/ts-with-react/blob/lesson-55/public/imgs/img-5.jpg?raw=true"
+    }, 
+    {
+      "id": 6,
+      "name": "Sneaker",
+      "price": 300,
+      "imgUrl": "https://github.com/nurmukhamedov/ts-with-react/blob/lesson-55/public/imgs/img-6.jpg?raw=true"
+    }
+  ]
+  
